@@ -5,8 +5,8 @@ const WebWhatsappProvider = require('@bot-whatsapp/provider/baileys')
 const MongoAdapter = require('@bot-whatsapp/database/mongo')
 
 
-const MONGO_DB_URI = 'mongodb://localhost:27017'
-const MONGO_DB_NAME = 'whatsapp-bot'
+const MONGO_DB_URI = 'mongodb+srv://Jkeviin:<password>@cluster0.ovudi9t.mongodb.net'
+const MONGO_DB_NAME = 'test'
 
 
 // DELAY:
@@ -93,10 +93,9 @@ const flowArgumento = addKeyword('argumento').addAnswer('Indica cual es tu email
     console.log('👉 Informacion del contexto: ', ctx)
 })
 
-const flowCorreo = addKeyword('correo').addAnswer('Indica cual es tu email', null, (ctx, { fallback }) => {
-    if (!ctx.body.includes('@')) {
-        return fallback('El email no es correcto, por favor, indica un email valido')
-    }
+const flowCorreo = addKeyword('correo').addAnswer('Indica cual es tu email', {capture: true}, (ctx, {fallBack}) => {
+    if(!ctx.body.includes('@')) return fallBack()
+    console.log('👉 Informacion del contexto: ', ctx.body)
 })
 
 

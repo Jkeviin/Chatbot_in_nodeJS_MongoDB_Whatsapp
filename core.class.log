@@ -1,0 +1,506 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '0DAA10C3954A79DFDB61EC169422211F',
+    participant: undefined
+  },
+  messageTimestamp: 1678913092,
+  pushName: '?',
+  message: Message {
+    conversation: 'Correo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Correo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '8EC6B5F9CE1D401DE212E587A9AC48A5',
+    participant: undefined
+  },
+  messageTimestamp: 1678913096,
+  pushName: '?',
+  message: Message {
+    conversation: 'Jsjwjjsis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jsjwjjsis',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '4122F3B3E4CA835FB5CFA9500A0122DD',
+    participant: undefined
+  },
+  messageTimestamp: 1678913103,
+  pushName: '?',
+  message: Message {
+    conversation: 'Kenwjwkwo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Kenwjwkwo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '15C46A2DA32FCB94891DE6BDCE2CFA99',
+    participant: undefined
+  },
+  messageTimestamp: 1678913109,
+  pushName: '?',
+  message: Message {
+    conversation: 'Oooooh',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Oooooh',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '94BE62725BAC4C8ACFB6862FF3B027E8',
+    participant: undefined
+  },
+  messageTimestamp: 1678913124,
+  pushName: '?',
+  message: Message {
+    conversation: 'No recibe otra respuesta que no sea el e-mail',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No recibe otra respuesta que no sea el e-mail',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '911627E4B78D9AAE935198D41A1DC008',
+    participant: undefined
+  },
+  messageTimestamp: 1678913132,
+  pushName: '?',
+  message: Message {
+    conversation: 'Uy qué chevere',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Uy qué chevere',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: 'D297731DCE6D61CE6E0879D96487F9A1',
+    participant: undefined
+  },
+  messageTimestamp: 1678913445,
+  pushName: '?',
+  message: Message {
+    conversation: 'Correo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Correo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '193564EA7DA20FDBEBEA3C6C3F2DE6BD',
+    participant: undefined
+  },
+  messageTimestamp: 1678913449,
+  pushName: '?',
+  message: Message {
+    conversation: 'yuliethmorenogallego4@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'yuliethmorenogallego4@gmail.com',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: 'B45E2B494E6FE592B7176E84730C5189',
+    participant: undefined
+  },
+  messageTimestamp: 1678913570,
+  pushName: '?',
+  message: Message {
+    conversation: 'Uy jajajajajajaj que delicado eso',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Uy jajajajajajaj que delicado eso',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '1BEC3AE2840856F0C5D56FE6FE701E1A',
+    participant: undefined
+  },
+  messageTimestamp: 1678913722,
+  pushName: '?',
+  message: Message {
+    conversation: 'Jajajajajaja ay no amor que duro jajajajaja y solo por una letrica',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Jajajajajaja ay no amor que duro jajajajaja y solo por una letrica',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '54AFEBD6FCCF7B1BF4EA3FD913BC3640',
+    participant: undefined
+  },
+  messageTimestamp: 1678913822,
+  pushName: '?',
+  message: Message {
+    conversation: 'Ves mi amor por eso es mejor parar un momento relajarte y luego seguir',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Ves mi amor por eso es mejor parar un momento relajarte y luego seguir',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '698DB97EA914CAFEF6BF8CF744553270',
+    participant: undefined
+  },
+  messageTimestamp: 1678913829,
+  pushName: '?',
+  message: Message {
+    conversation: 'Pero te quedó súper bien mi amor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Pero te quedó súper bien mi amor',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '017CC925416489BB72E424AE2E4F4889',
+    participant: undefined
+  },
+  messageTimestamp: 1678913848,
+  pushName: '?',
+  message: Message {
+    conversation: 'Podes creer amor que en el trabajo del bogotazo saque 3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Podes creer amor que en el trabajo del bogotazo saque 3',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '2B0125014406C8B4EE9CB9D2FDE2F681',
+    participant: undefined
+  },
+  messageTimestamp: 1678913862,
+  pushName: '?',
+  message: Message {
+    conversation: '3.3 que porque utilice traductor jajajajajaj',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3.3 que porque utilice traductor jajajajajaj',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '6BE7A1165973095985816375074DD268',
+    participant: undefined
+  },
+  messageTimestamp: 1678913891,
+  pushName: '?',
+  message: Message {
+    conversation: 'Es que te imaginas traducir ese textote solo con mis conocimientos básicos?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Es que te imaginas traducir ese textote solo con mis conocimientos básicos?',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '093AA594C528171A5477D07C9B590324',
+    participant: undefined
+  },
+  messageTimestamp: 1678914189,
+  pushName: '?',
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Yo que carajos voy a saber el men es brujo',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Yo que carajos voy a saber el men es brujo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '3994F184E8EAD7BC48D0409706421582',
+    participant: undefined
+  },
+  messageTimestamp: 1678914199,
+  pushName: '?',
+  message: Message {
+    conversation: 'Que porque el coso se siente impersonal',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que porque el coso se siente impersonal',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '8E2BADED3E73AEC10E50953E35695213',
+    participant: undefined
+  },
+  messageTimestamp: 1678914203,
+  pushName: '?',
+  message: Message {
+    conversation: 'Y yo tipo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Y yo tipo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '4FE638806BFE6D468495669F92112E2F',
+    participant: undefined
+  },
+  messageTimestamp: 1678914208,
+  pushName: '?',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/30548253_1591426177990591_511802382781622147_n.enc?ccb=11-4&oh=01_AdSEBObB6nnXW5DNv8_G2229Kg7Eu4YpOyQQJ9sIHn1aaw&oe=6439899D&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/30548253_1591426177990591_511802382781622147_n.enc?ccb=11-4&oh=01_AdSEBObB6nnXW5DNv8_G2229Kg7Eu4YpOyQQJ9sIHn1aaw&oe=6439899D',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      isAnimated: false
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: 'B1D35EF8E467F3363F5E49D9F94E31DE',
+    participant: undefined
+  },
+  messageTimestamp: 1678914544,
+  pushName: '?',
+  message: Message {
+    conversation: 'Uy no yo le voy a preguntar que no sea tan pendejo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Uy no yo le voy a preguntar que no sea tan pendejo',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '8F6ADC048B30ED6FF698D128A5C94480',
+    participant: undefined
+  },
+  messageTimestamp: 1678914586,
+  pushName: '?',
+  message: Message {
+    conversation: 'Buenas tardes profesor, será que nos podemos reunir un momento para que porfavor me aclare los comentarios sobre el trabajo y la nota, ya que no los entendí muy bien y muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Buenas tardes profesor, será que nos podemos reunir un momento para que porfavor me aclare los comentarios sobre el trabajo y la nota, ya que no los entendí muy bien y muchas gracias',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '42D6DF5C0A07713D8704F0CC04D360E0',
+    participant: undefined
+  },
+  messageTimestamp: 1678914590,
+  pushName: '?',
+  message: Message {
+    conversation: 'Que tal?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Que tal?',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '7DD62F78B6C03FA26E547CF46D0B4B04',
+    participant: undefined
+  },
+  messageTimestamp: 1678914629,
+  pushName: '?',
+  message: Message {
+    conversation: 'O mejor no, luego me baja más JAJA',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'O mejor no, luego me baja más JAJA',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '6371295C1AC27AC91573C9FBF6666EF7',
+    participant: undefined
+  },
+  messageTimestamp: 1678914638,
+  pushName: '?',
+  message: Message {
+    stickerMessage: StickerMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.15575-24/26968034_541075834823797_2843572640477447624_n.enc?ccb=11-4&oh=01_AdSTpvcEg7GdFHgT-TeuPH27umPj5eL_1g-t3F5P1mmjVQ&oe=6439A4B8&mms3=true',
+      fileSha256: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      mediaKey: [Uint8Array],
+      mimetype: 'image/webp',
+      height: 64,
+      width: 64,
+      directPath: '/v/t62.15575-24/26968034_541075834823797_2843572640477447624_n.enc?ccb=11-4&oh=01_AdSTpvcEg7GdFHgT-TeuPH27umPj5eL_1g-t3F5P1mmjVQ&oe=6439A4B8',
+      fileLength: [Long],
+      mediaKeyTimestamp: [Long],
+      firstFrameLength: 5472,
+      firstFrameSidecar: [Uint8Array],
+      isAnimated: true
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '',
+  from: '573126583238'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573126583238@s.whatsapp.net',
+    fromMe: false,
+    id: '54A10FCB85CD7B75140609C22E4048D3',
+    participant: undefined
+  },
+  messageTimestamp: 1678914707,
+  pushName: '?',
+  message: Message {
+    conversation: 'No luego se pone re loco y me baja y no mamolas',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'No luego se pone re loco y me baja y no mamolas',
+  from: '573126583238'
+}
